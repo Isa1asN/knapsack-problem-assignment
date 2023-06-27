@@ -1,5 +1,9 @@
-# knapsack-problem-assignment
+
+## Solving the knapsack problem using Hill Climbing, Simulated Annealing & Genetic Algorithm
+Read the problem decription for more info
+
 Another assignment I worked on when taking Fundamentals of AI course, 3rd year 2nd semester
+
 
 ## Format to run the Knapsack implementation:- 
      python main.py --algorithm [algorithmType] --file [knapfile]
