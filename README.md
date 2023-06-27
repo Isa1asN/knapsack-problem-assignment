@@ -13,4 +13,9 @@ Knapfile :
 * knapfile15.txt for 15 items
 * knapfile20.txt for 20 items
 
-  
+
+![Graph 1](https://github.com/Isa1asN/knapsack-problem-assignment/blob/main/images/g1.jpg?raw=true)
+![Graph 2](https://github.com/Isa1asN/knapsack-problem-assignment/blob/main/images/g2.jpg?raw=true)
+![Graph 3](https://github.com/Isa1asN/knapsack-problem-assignment/blob/main/images/g3.jpg?raw=true)
+![Graph 4](https://github.com/Isa1asN/knapsack-problem-assignment/blob/main/images/g4.jpg?raw=true)
+
